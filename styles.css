@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+  
+main {
+    border: 1px solid #000;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+}
+  
+h1, h2, h3, p, ul, ol, figure, form {
+    text-align: center;
+}
+  
+figure {
+    margin: 20px 0;
+}
+  
+fieldset {
+    text-align: left;
+}
+  
+input[type="text"], button {
+    margin-top: 10px;
+}
+  
+footer {
+    text-align: center;
+}
+  
+ul, ol {
+    margin-top: 2em; 
+    margin-bottom: 2em; 
+}
+
+li {
+    line-height: 1.4; 
+}
+  
